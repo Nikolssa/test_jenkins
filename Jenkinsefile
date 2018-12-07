@@ -16,7 +16,7 @@ node
         def dog = "SHARIK"
         println(dog);
         dog = 10;
-        println(dog)
+        println(dog);
     }
     stage('Build')
     {
